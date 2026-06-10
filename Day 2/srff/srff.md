@@ -1,0 +1,4 @@
+<img width="1487" height="437" alt="image" src="https://github.com/user-attachments/assets/ba3c6345-50e4-4357-a712-3d55cc2248ae" />
+
+<img width="1256" height="574" alt="image" src="https://github.com/user-attachments/assets/26c6719a-fb26-4246-904b-ab14378d5d7d" />
+In the flip flop, with the help of preset and clear when the power is switched ON, the states of the circuit keeps on changing, that is it is uncertain. It may come to set(Q=1) or reset(Q’=0) state. In many applications, it is desired to initially set or reset the flip flop that is the initial state of the flip flop that needs to be assigned. This thing is accomplished by the preset(PR) and the clear(CLR). Case 1(PR=CLR=1): The asynchronous inputs are inactive and the flip flop responds freely to the S,R and the CLK inputs in the normal way. Case 2(PR=0 and CLR=1):This is used when the Q is set to 1. Case 3(PR=1 and CLR=0):This is used when the Q’ is set to 1. Case 4(PR=CLR=0): This is an invalid state.
