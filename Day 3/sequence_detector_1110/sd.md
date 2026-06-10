@@ -1,1 +1,28 @@
+<img width="1571" height="467" alt="image" src="https://github.com/user-attachments/assets/24f4156f-6fa3-49f9-96d4-6478f878dd86" />
 
+A 1110 sequence detector is a digital circuit that monitors a serial input stream and produces an output 1 whenever the pattern 1110 is detected.
+
+Example
+
+Input stream:
+
+1 0 1 1 1 0 1
+
+When the circuit receives 1110, the output becomes 1 for that clock cycle.
+
+Input : 1 0 1 1 1 0 1
+Output: 0 0 0 0 0 1 0
+States
+Idle: No matching bits detected.
+S1: Detected 1
+S2: Detected 11
+S3: Detected 111
+Detected: Next input is 0, so sequence 1110 is found and output goes high.
+Applications
+Pattern recognition
+Communication systems
+Data packet detection
+Digital signal processing
+
+One-line viva answer:
+"A 1110 sequence detector is a finite state machine (FSM) that detects the serial bit pattern 1110 and asserts its output when the sequence occurs."
