@@ -51,7 +51,7 @@ TKM_INTERNSHIP
 ### Day 3
 - Sequence detector
 - Face detector(use case)
-### Day 3
+### Day 4
 - Block memory generator
 
 ## Technologies Used
