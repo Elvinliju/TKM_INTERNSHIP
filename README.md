@@ -43,6 +43,14 @@ TKM_INTERNSHIP
 ### Day 1
 - 4-Bit Ripple Carry Adder
 - BCD Counter
+### Day 2
+- D flip-flop
+- SR flip-flop
+- Decoder
+- Universal shift register
+### Day 3
+- Sequence detector
+- Face detector(use case)
 
 ## Technologies Used
 
