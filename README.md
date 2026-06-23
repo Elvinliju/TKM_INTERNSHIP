@@ -70,21 +70,6 @@ TKM_INTERNSHIP
         └── README.md
 ```
 
----
-
-## 📌 Notes
-
-* Each module can further contain:
-
-  * `Design/` → RTL files
-  * `Testbench/` → simulation files
-  * `docs.md` → explanation (optional)
-
-* Final project (AES-128) is separated for clarity and importance.
-
-* Naming is standardized (use `_` instead of spaces).
-
----
 
 ```
 
