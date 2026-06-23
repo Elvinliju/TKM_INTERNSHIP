@@ -1,25 +1,31 @@
-# Summer Internship 2026 - TKM College of Engineering
+# 🎓 Summer Internship 2026 – TKM College of Engineering
 
-## About
+## 📖 Overview
 
-This repository contains the Verilog HDL designs, testbenches, and documentation developed during the Summer Internship 2026 conducted at TKM College of Engineering (TKMCE).
+This repository contains all **Verilog HDL designs, testbenches, simulation results, and documentation** developed during the *Summer Internship 2026* conducted at **TKM College of Engineering (TKMCE)**.
 
-## Student Details
+The work focuses on **digital design concepts**, **RTL implementation**, and **verification using Vivado**.
 
-- Name: Elvin Liju
-- Department: Electronics and Communication Engineering
-- College: SCMS School of Engineering and Technology
-- Internship Venue: TKM College of Engineering (TKMCE)
+---
 
-## Internship Details
+## 👨‍🎓 Student Details
 
-- Internship Name: Summer Internship 2026
-- Duration: 15 Days
-- Start Date: 08 June 2026
-- Tool Used: Vivado Design Suite
-- Hardware Description Language: Verilog HDL
+* **Name:** Elvin Liju
+* **Department:** Electronics and Communication Engineering
+* **College:** SCMS School of Engineering and Technology
+* **Internship Venue:** TKM College of Engineering (TKMCE)
 
-## Repository Structure
+---
+
+## 🏫 Internship Details
+
+* **Internship Name:** Summer Internship 2026
+* **Duration:** 15 Days
+* **Start Date:** 08 June 2026
+* **Tools Used:** Vivado Design Suite
+* **Language:** Verilog HDL
+
+---
 
 ## 📁 Repository Structure
 
@@ -70,39 +76,84 @@ TKM_INTERNSHIP
         └── README.md
 ```
 
+---
 
-```
+## 🧪 Experiments Completed
 
-## Experiments Completed
+### 📅 Day 1
 
-### Day 1
-- 4-Bit Ripple Carry Adder
-- BCD Counter
-### Day 2
-- D flip-flop
-- SR flip-flop
-- Decoder
-- Universal shift register
-### Day 3
-- Sequence detector
-- Face detector(use case)
-### Day 4
-- Block memory generator
-### Day 5
-- BCD adder interface
-- FIFO interface
-### Day 6
-- FIFO trans
-### Day 7  
-- APB
-### Final project
-- AES-128
-## Technologies Used
+* 4-bit Ripple Carry Adder
+* BCD Counter
 
-- Verilog HDL
-- Vivado Design Suite
-- GitHub
+### 📅 Day 2
 
-## Purpose
+* D Flip-Flop
+* SR Flip-Flop
+* Decoder
+* Universal Shift Register
 
-This repository is maintained to document and organize all designs, simulations, testbenches, and reports completed during the internship.
+### 📅 Day 3
+
+* Sequence Detector
+* Face Detector (Use Case)
+
+### 📅 Day 4
+
+* Block Memory Generator
+
+### 📅 Day 5
+
+* BCD Adder Interface
+* FIFO Interface
+
+### 📅 Day 6
+
+* FIFO Transaction
+
+### 📅 Day 7
+
+* APB Protocol
+
+### 🚀 Final Project
+
+* AES-128 Encryption Core
+
+---
+
+## 🛠️ Technologies Used
+
+* **Verilog HDL** – RTL Design
+* **Vivado Design Suite** – Simulation & Synthesis
+* **GitHub** – Version Control & Documentation
+
+---
+
+## 🎯 Purpose
+
+This repository serves as a **complete record of learning and implementation** during the internship, including:
+
+* Digital design fundamentals
+* RTL coding practices
+* Simulation and debugging
+* Functional verification techniques
+* Final project implementation (AES-128)
+
+---
+
+## 📌 Highlights
+
+* ✔️ Structured learning from basic to advanced concepts
+* ✔️ Hands-on experience with FPGA design tools
+* ✔️ Implementation of industry-relevant protocols (FIFO, APB)
+* ✔️ Complete AES-128 encryption core with verification
+
+---
+
+## 📬 Contact
+
+For any queries or collaboration:
+
+* 📧 Feel free to connect via GitHub
+
+---
+
