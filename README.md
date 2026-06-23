@@ -21,21 +21,71 @@ This repository contains the Verilog HDL designs, testbenches, and documentation
 
 ## Repository Structure
 
+## 📁 Repository Structure
+
 ```text
 TKM_INTERNSHIP
 │
 ├── README.md
 │
-└── Day1
-    ├── Ripple_Carry_Adder
-    │   ├── Design
-    │   ├── Testbench
-    │   └── rca.md
-    │
-    └── BCD_Counter
+├── Day1
+│   ├── Ripple_Carry_Adder
+│   │   ├── Design
+│   │   ├── Testbench
+│   │   └── rca.md
+│   │
+│   └── BCD_Counter
+│       ├── Design
+│       ├── Testbench
+│       └── bcd.md
+│
+├── Day2
+│   ├── D_FlipFlop
+│   ├── SR_FlipFlop
+│   ├── Decoder
+│   └── Universal_Shift_Register
+│
+├── Day3
+│   ├── Sequence_Detector
+│   └── Face_Detector_UseCase
+│
+├── Day4
+│   └── Block_Memory_Generator
+│
+├── Day5
+│   ├── BCD_Adder_Interface
+│   └── FIFO_Interface
+│
+├── Day6
+│   └── FIFO_Transaction
+│
+├── Day7
+│   └── APB_Protocol
+│
+└── Final_Project
+    └── AES_128
         ├── Design
         ├── Testbench
-        └── bcd.md
+        ├── Verification
+        └── README.md
+```
+
+---
+
+## 📌 Notes
+
+* Each module can further contain:
+
+  * `Design/` → RTL files
+  * `Testbench/` → simulation files
+  * `docs.md` → explanation (optional)
+
+* Final project (AES-128) is separated for clarity and importance.
+
+* Naming is standardized (use `_` instead of spaces).
+
+---
+
 ```
 
 ## Experiments Completed
