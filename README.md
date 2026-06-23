@@ -53,7 +53,15 @@ TKM_INTERNSHIP
 - Face detector(use case)
 ### Day 4
 - Block memory generator
-
+### Day 5
+- BCD adder interface
+- FIFO interface
+### Day 6
+- FIFO trans
+### Day 7  
+- APB
+### Final project
+- AES-128
 ## Technologies Used
 
 - Verilog HDL
